@@ -1,2 +1,1 @@
-a cliente deste repositória é a neide que tem como objetivo fazer um sistema para otimizar o tempo de trbalho dela
-
+desenvolvimento de um sistema de software para a Confeitaria da Dona Neide, destinado a gerenciar os pedidos, clientes e encomendas do negócio, substituindo a papelada do dia a dia. O sistema terá como objetivo guardar o nome e telefone dos clientes, sabor do bolo, data de entrega, aplicar taxa de urgência para pedidos de última hora e apresentar interface acessível com letras grandes e paleta de cores em rosa bebê e branco, conforme os requisitos elicitados 
